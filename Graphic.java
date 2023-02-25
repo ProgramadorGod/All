@@ -1,5 +1,4 @@
 import javax.swing.*;
-import java.awt.*;
 import java.awt.event.*;
 public class Graphic extends JFrame implements ActionListener{
     JButton Button1,Button2,Button3;
@@ -21,10 +20,7 @@ public class Graphic extends JFrame implements ActionListener{
         Label1 = new JLabel("YeahBuddy");
         Label1.setBounds(10,10,400,30);
         add(Label1);
-
-
-    };
-
+    }
     public void actionPerformed(ActionEvent e){
         if (e.getSource() == Button1){
             Label1.setText("You've Chosen Option 1");
@@ -35,17 +31,12 @@ public class Graphic extends JFrame implements ActionListener{
             Label1.setText("You've Chosen Option 3");
         }
     }
-
     public static void main(String[] args) {
         Graphic a  = new Graphic();
         a.setBounds(0,0,450,300);
         a.setResizable(false);
         a.setVisible(true);
         a.setLocationRelativeTo(null);
-
-
-
-
-    };
+    }
 
 }
