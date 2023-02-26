@@ -1,6 +1,4 @@
 public class Person {
-
-
     public String Name;
     public int Age;
     public String Adress;
@@ -9,8 +7,6 @@ public class Person {
         this.Name = Name;
         this.Age = Age;
         this.Adress = Adress;
-
-
     }
 
     public static void main(String[] args){

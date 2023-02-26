@@ -29,6 +29,7 @@ public class TextFil3 extends JFrame implements ActionListener{
         }
     }
 
+
     public static void main(String[] args) {
         TextFil3 a = new TextFil3();
         a.setBounds(0,0,600,500);
