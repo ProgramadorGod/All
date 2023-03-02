@@ -31,7 +31,6 @@ public class FibonacciZecuence {
         for (int i = 0; i<=30; i++){
             ARRAY2.add(FIBO_1+FIBO_2);
             Fat = ARRAY2.size();
-
             FIBO_1 = ARRAY2.get(Fat-1);
             FIBO_2 = ARRAY2.get(Fat-2);
 //            System.out.println(FIBO_1);
