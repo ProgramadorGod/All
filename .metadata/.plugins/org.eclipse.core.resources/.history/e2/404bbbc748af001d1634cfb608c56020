@@ -1,0 +1,12 @@
+
+public class File2 {
+	public static void main(String args[]) {
+		int Biology  = 49;
+		int Science = 90;
+		int Maths = 74; 
+		
+		System.out.println("a");
+	
+	
+	}
+}

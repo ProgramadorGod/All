@@ -1,0 +1,7 @@
+
+public class File2 {
+	int Biology  = 49;
+	int Science = 90;
+	int Maths = 74; 
+	
+}
