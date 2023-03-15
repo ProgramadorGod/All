@@ -51,6 +51,7 @@ public class SamsungWasher {
         if (getDryComplete() == 1){
             System.out.println("Your clothes are ready! ");
         }
+
     }
 
     public int getClotheKind(){

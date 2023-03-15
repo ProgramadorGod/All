@@ -1,6 +1,5 @@
 package Mchn1;
 import Library.SamsungWasher;
-
 import java.util.Scanner;
 
 public class Mchne1 {
