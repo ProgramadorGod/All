@@ -1,5 +1,5 @@
 package Sams_WashingMchns.src.Mchn1;
-import Library.SamsungWasher;
+import Sams_WashingMchns.src.Library.SamsungWasher;
 import java.util.Scanner;
 
 public class Mchne1 {
