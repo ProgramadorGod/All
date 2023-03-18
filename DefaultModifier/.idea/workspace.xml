@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abb7103a-0dcd-4785-9201-6084a41e188c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/All.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../All.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sams_WashingMchns/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YeahBuddy/out/production/YeahBuddy/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YeahBuddy/out/production/YeahBuddy/.idea/YeahBuddy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YeahBuddy/out/production/YeahBuddy/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YeahBuddy/out/production/YeahBuddy/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YeahBuddy/out/production/YeahBuddy/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YeahBuddy/out/production/YeahBuddy/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YeahBuddy/out/production/YeahBuddy/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Package1/Attribs_Props.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Package1/Attribs_Props.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Package1/JavaClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Package1/JavaClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Package2/JavaClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Package2/JavaClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sams_WashingMchns/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sams_WashingMchns/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sams_WashingMchns/out/production/Sams_WashingMchns/Mchn1/Mchne1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sams_WashingMchns/out/production/Sams_WashingMchns/Mchn1/Mchne1.class" afterDir="false" />
-    </list>
+    <list default="true" id="abb7103a-0dcd-4785-9201-6084a41e188c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
