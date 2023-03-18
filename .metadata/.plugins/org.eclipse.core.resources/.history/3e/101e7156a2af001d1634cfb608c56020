@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+
+public class Inputt {
+	public static void main(String args[]) {
+		Scanner in = new Scanner(System.in);
+		String Name ="";
+		int Num1 = 0, Num2 = 0, Result = 0;
+		
+		System.out.println("What's your name ?: ");
+		Name = in.nextLine();
+		
+		System.out.print.ln("Give me the first value to the sum: ");
+		Num1  = in.nextLine();
+		
+		
+	};
+};

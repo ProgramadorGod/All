@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+public class CocaCompany {
+	public static void main(String args[]) {
+		Scanner in = new Scanner(System.in);
+		
+		System.out.println("Welcome to CocaCola's Company Program, This program is to u know the vacations days u're able to get ");
+		System.out.println("Which Department Do U Belong?:"
+				+ "1: Customer Support"
+				+ "2: Logistic Department"
+				+ "3: Gerency "
+				+ "Write if it's option 1/2/3");
+		String Department = "";
+		Department = in.nextLine();
+		int Lo0ps = Department.length(); 
+		for (int i=0; i<Lo0ps; i++) {
+			char c = Department.charAt(i);
+			System.out.println(c);
+			if (c== 1) {
+				System.out.println("A");
+			};
+			
+		}
+		
+		
+		
+		
+	};
+};
